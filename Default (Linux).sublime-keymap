@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+  { "keys": ["ctrl+shift+f4"], "command": "close_all", "args": {"panel": "console", "toggle": true} },
+  { "keys": ["ctrl+shift+c"], "command": "show_ruby_coverage" }
+]
