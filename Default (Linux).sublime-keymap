@@ -3,5 +3,6 @@
   { "keys": ["ctrl+shift+f4"], "command": "close_all" },
   { "keys": ["ctrl+shift+b"], "command": "hide_panel", "args": {"panel": "output.exec"} },
   { "keys": ["f12"], "command": "reindent", "args": {"single_line": false} },
-  { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_minimap" }
+  { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_minimap" },
+  { "keys": ["f7"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
 ]
